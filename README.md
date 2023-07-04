@@ -1,6 +1,7 @@
 # Django-Music-App
 This is a simple Django project on a local server.
-
+This website checks if there is already existing user in the sistem (the user model). If there is no such user, it opens a form which creates a new prfofile in the database using POST request. 
+And if the user is already logged in, he/she can see a list of their songs (if they added songs). Every user can add, delete and edit each song. Also Every user can delete their profile which will also delete all their songs. 
 
 
 <img width="650" alt="image" src="https://github.com/Max-Vassilev/Django-Music-App/assets/106106321/44261ef4-e323-403f-b078-de524264565e">
