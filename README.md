@@ -15,6 +15,7 @@ Creating a new album:
 
 <img width="650" alt="image" src="https://github.com/Max-Vassilev/Django-Music-App/assets/106106321/be3f6915-d6ff-4b68-bff6-1d8f6a36adf1">
 
+ALbums details:
 
 <img width="650" alt="image" src="https://github.com/Max-Vassilev/Django-Music-App/assets/106106321/553c8a87-f3a0-444b-9594-d045888bb4e1">
 
@@ -24,13 +25,12 @@ Album details:
 
 Album delete:
 
+<img width="650" alt="image" src="https://github.com/Max-Vassilev/Django-Music-App/assets/106106321/e107ee0b-697d-4cd5-b72a-3d0c6e9fd659">
 
 
 Album edit:
 
 <img width="650" alt="image" src="https://github.com/Max-Vassilev/Django-Music-App/assets/106106321/fa1db402-057c-4765-9820-36909f38d7aa">
-
-<img width="650" alt="image" src="https://github.com/Max-Vassilev/Django-Music-App/assets/106106321/e107ee0b-697d-4cd5-b72a-3d0c6e9fd659">
 
 
 <img width="650" alt="image" src="https://github.com/Max-Vassilev/Django-Music-App/assets/106106321/d75d135c-cdc7-4f53-8607-a847c121d6a6">
