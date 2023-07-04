@@ -18,6 +18,8 @@ Creating a new album:
 
 <img width="650" alt="image" src="https://github.com/Max-Vassilev/Django-Music-App/assets/106106321/553c8a87-f3a0-444b-9594-d045888bb4e1">
 
+Album details:
+
 <img width="650" alt="image" src="https://github.com/Max-Vassilev/Django-Music-App/assets/106106321/80e3bbb3-bb83-4bde-876b-d3dfbd5c828b">
 
 
